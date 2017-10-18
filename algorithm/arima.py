@@ -4,7 +4,7 @@
 # @Author: Joshua Liu
 # @Email: liuchaozhenyu@gmail.com
 # @Create Date: 2017-10-16 17:10:33
-# @Last Modified: 2017-10-17 17:10:06
+# @Last Modified: 2017-10-18 09:10:14
 # @Description:
 #   ARIMA(p, d, q) 模型
 #       d: 差分次数，使用"ADF单位根平稳型检测"，得到合适的 d 
